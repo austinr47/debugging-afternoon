@@ -10,7 +10,6 @@ import { Route, Switch } from 'react-router-dom';
 class App extends Component {
   constructor() {
     super();
-
     this.state = {
       shoppingCart: []
     }
